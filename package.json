@@ -1,5 +1,5 @@
 {
-  "name": "twillio-voice-message",
+  "name": "twilio-voice-message",
   "version": "1.0.0",
   "description": "Serverless functions",
   "license": "UNLICENSED",
@@ -9,6 +9,12 @@
     "serverless",
     "lambda",
     "cloud functions"
+  ],
+  "contributors": [
+    {
+      "name": "Khurram Ali",
+      "email": "info@riksof.com"
+    }
   ],
   "peerDependencies": {
     "twilio": "3.18.0"
